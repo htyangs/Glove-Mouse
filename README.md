@@ -3,12 +3,26 @@
 * It is able to control the cursor, left click, right click, scroll up and down, and predict the alphabets from the gesture. <br>
 * The glove mouse use the bluetooth to pass the signal to computer
 
-<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/sample.png">
+<p align="center">
+<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/sample.png"> <br>
+<p/> 
+
+
+
 ### Classifier model
 Gate recurrent neural network used the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
 ### Aims
 The purpose of this device is to provide all users with a keyboard and mouse that can be used in their most comfortable posture. It solves the problem of poor posture caused by computer users who have long placed their hands and shoulders in line with the table and the keyboard. 
-
+<table>
+  <tr>
+    <td align="center"> rib </td>
+     <td align="center"> beef </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/rib.gif" width="600"/>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/beef.gif" width="600"/>
+  </tr>
+ </table>
 ## How to use?
 
 #### record.py
