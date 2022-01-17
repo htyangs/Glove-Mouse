@@ -41,11 +41,11 @@ Collect the data from each sensor and transfer the data to computer using blueto
 ## Sensor list
 
 <p align="center">
-<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/list.png"> <br>
+<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/list.png" width="600"> <br>
 <p/> 
 
 ## Support gesture
 
 <p align="center">
-<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control.png"> <br>
+<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control.png" width="600"> <br>
 <p/> 
