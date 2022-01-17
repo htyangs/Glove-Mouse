@@ -1,6 +1,6 @@
 # Glove-Mouse and Keyboard
-#### A glove mouse that can replace your physical mouse and keyboard. <br>
-#### It is able to control the cursor, left click, right click, scroll up and down, and predict the alphabets from the gesture. 
+* A glove mouse that can replace your physical mouse and keyboard. <br>
+* It is able to control the cursor, left click, right click, scroll up and down, and predict the alphabets from the gesture. 
 ### Classifier model
 Gate recurrent neural network used the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
 ### Aims
