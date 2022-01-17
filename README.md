@@ -20,7 +20,7 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;"><img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/rib.gif" width="600"/>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/beef.gif" width="600"/>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/beef_.gif" width="600"/>
   </tr>
  </table>
 ## How to use?
