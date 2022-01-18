@@ -38,6 +38,9 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
  </table>
  
 ## How to use?
+Connect the sensor on the sensor list to the given pin and use arduino.ino to modify some parameter such as pressure sensivity 
+#### Arduino.ino
+* Collect the data from each sensor and transfer the data to computer using bluetooth.
 
 #### record.py
 * Collect the angular accleration of Accelerometer on the index finger
@@ -48,8 +51,6 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
 #### control.py
 * Use the data passing from glove mouse to control the mouse and input the words. 
 
-#### Arduino.ino
-* Collect the data from each sensor and transfer the data to computer using bluetooth.
 
 ### Classifier model
 Gate recurrent neural network use the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
