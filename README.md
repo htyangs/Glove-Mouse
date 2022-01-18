@@ -52,7 +52,7 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
 * Collect the data from each sensor and transfer the data to computer using bluetooth.
 
 ### Classifier model
-Gate recurrent neural network used the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
+Gate recurrent neural network use the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
 
 <p align="center">
 <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/gru.png"> <br>
