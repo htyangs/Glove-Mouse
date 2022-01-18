@@ -16,7 +16,7 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
 
 <table>
   <tr>
-    <td align="center"> scroll </td>
+    <td align="center"> scroll up and down</td>
      <td align="center"> right click and save image </td>
   </tr>
   <tr>
