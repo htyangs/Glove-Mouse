@@ -1,7 +1,7 @@
 # Glove Mouse and Keyboard
 * A glove mouse that can replace your physical mouse and keyboard. <br>
 * It is able to control the cursor, left click, right click, scroll up and down, and predict the alphabets from the gesture. <br>
-* The glove mouse use the bluetooth to pass the signal to computer
+* The glove mouse uses Bluetooth to pass the signals to computer
 * Deep learning based alphabet classifier
 
 <p align="center">
@@ -55,7 +55,7 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
 Gate recurrent neural network use the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
 
 <p align="center">
-<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/gru.png"> <br>
+    <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/gru.png" width="600"> <br>
 <p/> 
 
 ## Sensor list
@@ -64,7 +64,7 @@ Gate recurrent neural network use the angular velocity of the three-axis as inpu
 <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/list.png" width="600"> <br>
 <p/> 
 
-## Support gesture
+## Gestures supported
 
 <p align="center">
     <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control-light.png#gh-light-mode-only" width="600">
