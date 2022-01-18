@@ -1,4 +1,4 @@
-# Glove-Mouse and Keyboard
+# Glove Mouse and Keyboard
 * A glove mouse that can replace your physical mouse and keyboard. <br>
 * It is able to control the cursor, left click, right click, scroll up and down, and predict the alphabets from the gesture. <br>
 * The glove mouse use the bluetooth to pass the signal to computer
@@ -52,7 +52,7 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
 * Collect the data from each sensor and transfer the data to computer using bluetooth.
 
 ### Classifier model
-Gate recurrent neural network used the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
+Gate recurrent neural network use the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
 
 <p align="center">
 <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/gru.png"> <br>
@@ -68,4 +68,13 @@ Gate recurrent neural network used the angular velocity of the three-axis as inp
 
 <p align="center">
 <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control.png" width="600"> <br>
+<p/> 
+
+## Machine learning based classifier (new)
+To alleviate the effort of training a GRU model, we also use PCA/LDA + Randoom forest/Support vector machine to classify the alphabet
+The model read the frequency domain data which converts from Fast Fourier transform.
+It achieves high accuracy (97.5% in test dataset) when PCA+SVM is used.
+
+<p align="center">
+<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/table.png" width="600"> <br>
 <p/> 
