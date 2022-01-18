@@ -67,7 +67,9 @@ Gate recurrent neural network use the angular velocity of the three-axis as inpu
 ## Support gesture
 
 <p align="center">
-<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control.png" width="600"> <br>
+    <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control-light.png#gh-light-mode-only" width="600">
+    <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control-dark.png#gh-dark-mode-only" width="600">
+    <br>
 <p/> 
 
 ## Machine learning based classifier (new)
