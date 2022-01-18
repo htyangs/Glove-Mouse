@@ -2,6 +2,7 @@
 * A glove mouse that can replace your physical mouse and keyboard. <br>
 * It is able to control the cursor, left click, right click, scroll up and down, and predict the alphabets from the gesture. <br>
 * The glove mouse use the bluetooth to pass the signal to computer
+* Deep learning based alphabet classifier
 
 <p align="center">
 <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/sample.png"> <br>
