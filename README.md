@@ -38,7 +38,7 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
  </table>
  
 ## How to use?
-Connect the sensor on the sensor list to the given pin and use arduino.ino to modify some parameter such as pressure sensivity 
+Connect the sensor on the sensor list below to the given pin and use arduino.ino to modify some parameter such as pressure sensivity.
 #### Arduino.ino
 * Collect the data from each sensor and transfer the data to computer using bluetooth.
 
