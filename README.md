@@ -11,9 +11,16 @@
 
 ### Classifier model
 Gate recurrent neural network used the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
- 
+
+<p align="center">
+<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/gru.png"> <br>
+<p/> 
+
 ### Aims
 The purpose of this device is to provide all users with a keyboard and mouse that can be used in their most comfortable posture. It solves the problem of poor posture caused by computer users who have long placed their hands and shoulders in line with the table and the keyboard. 
+
+## DEMO
+
 <table>
   <tr>
     <td align="center"> scroll </td>
@@ -25,7 +32,7 @@ The purpose of this device is to provide all users with a keyboard and mouse tha
   </tr>
  </table>
 
-## DEMO
+
 <table>
   <tr>
     <td align="center"> rib </td>
