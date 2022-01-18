@@ -23,7 +23,16 @@ Gate recurrent neural network used the angular velocity of the three-axis as inp
  
 ### Aims
 The purpose of this device is to provide all users with a keyboard and mouse that can be used in their most comfortable posture. It solves the problem of poor posture caused by computer users who have long placed their hands and shoulders in line with the table and the keyboard. 
-
+<table>
+  <tr>
+    <td align="center"> scroll </td>
+     <td align="center"> right click and save image </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/scroll.gif" width="600"/>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/right click.gif" width="600"/>
+  </tr>
+ </table>
 ## How to use?
 
 #### record.py
