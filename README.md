@@ -50,7 +50,9 @@ Connect the sensor on the sensor list below to the given pin and use arduino.ino
 
 #### control.py
 * Use the data passing from glove mouse to control the mouse and input the words. 
-
+ 
+#### machine learning.ipynb
+* Tranform the time domain data to frequency domain and apply dimension reduction methods(PCA/LDA) to 25 dimensions, use Support vector machine/Random forest to predict the alphabet. 
 
 ### Classifier model
 Gate recurrent neural network use the angular velocity of the three-axis as input to predict the alphabets written by users. <br>
