@@ -62,6 +62,10 @@ Gate recurrent neural network use the angular velocity of the three-axis as inpu
 <p/> 
 
 ## Sensor list
+* FSR400 : Force Sensing Resistor
+* BH-37 : bending sensor
+* LSM9DS0 : Accelerometer + Gyro + Magnetometer
+* HC-05 : Bluetooth to Serial Port Module
 
 <p align="center">
 <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/list.png" width="600"> <br>
