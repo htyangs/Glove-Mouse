@@ -80,8 +80,8 @@ Gate recurrent neural network use the angular velocity of the three-axis as inpu
 <p/> 
 
 ## Machine learning based classifier (new)
-To alleviate the effort of training a GRU model, we also use PCA/LDA + Randoom forest/Support vector machine to classify the alphabet
-The model read the frequency domain data which converts from Fast Fourier transform.
+To alleviate the effort of training a GRU model, we also use PCA/LDA + Random forest/Support vector machine to classify the 26 alphabets.
+The model reads the frequency domain data converted from Fast Fourier transform.
 It achieves high accuracy (97.5% in test dataset) when PCA+SVM is used.
 
 <p align="center">
