@@ -76,8 +76,7 @@ Gate recurrent neural network use the angular velocity of the three-axis as inpu
 ![33](https://user-images.githubusercontent.com/29053630/201854477-42d05f5d-4d2a-47bd-91d1-32327f0c7eb5.png)
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/29053630/201854477-42d05f5d-4d2a-47bd-91d1-32327f0c7eb5.png#gh-light-mode-only" width="600">
-    <img src="https://user-images.githubusercontent.com/29053630/201854477-42d05f5d-4d2a-47bd-91d1-32327f0c7eb5.png#gh-dark-mode-only" width="600">
+    <img src="https://user-images.githubusercontent.com/29053630/201854477-42d05f5d-4d2a-47bd-91d1-32327f0c7eb5.png" width="600">
     <br>
 <p/> 
 
