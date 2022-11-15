@@ -4,8 +4,9 @@
 * The glove mouse uses Bluetooth to pass the signals to computer
 * Deep learning based alphabet classifier
 
+
 <p align="center">
-<img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/sample.png"> <br>
+<img src="https://user-images.githubusercontent.com/29053630/201852810-1eb19dc9-5de0-49c1-9c75-0247f53e96e1.PNG"> <br>
 <p/> 
 
 
