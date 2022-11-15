@@ -73,13 +73,19 @@ Gate recurrent neural network use the angular velocity of the three-axis as inpu
 <p/> 
 
 ## Gestures supported
+![33](https://user-images.githubusercontent.com/29053630/201854477-42d05f5d-4d2a-47bd-91d1-32327f0c7eb5.png)
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/29053630/201854477-42d05f5d-4d2a-47bd-91d1-32327f0c7eb5.png#gh-light-mode-only" width="600">
+    <img src="https://user-images.githubusercontent.com/29053630/201854477-42d05f5d-4d2a-47bd-91d1-32327f0c7eb5.png#gh-dark-mode-only" width="600">
+    <br>
+<p/> 
 
 <p align="center">
     <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control-light.png#gh-light-mode-only" width="600">
     <img src="https://github.com/alwaysmle/Glove-Mouse/blob/main/figure/control-dark.png#gh-dark-mode-only" width="600">
     <br>
 <p/> 
-
 ## Machine learning based classifier (new)
 To alleviate the effort of training a GRU model, we also use PCA/LDA + Random forest/Support vector machine to classify the 26 alphabets.
 The model reads the frequency domain data converted from Fast Fourier transform.
